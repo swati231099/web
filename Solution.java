@@ -22,8 +22,7 @@ public class Solution
 	{
 		Solution a=new Solution();
 	    int[] A = {0, 1, 0, 1, 1};
-	    int n = A.length;
-	    System.out.println(a.solution(A));
+	   System.out.println(a.solution(A));
 	}
 	}
  
